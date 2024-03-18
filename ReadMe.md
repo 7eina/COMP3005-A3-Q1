@@ -1,6 +1,10 @@
 # Student Database Management System
 
-###### Demo Link: 
+[Demo Link](https://youtu.be/0XlsFlrvkoo) 
+
+***Note to Viewer***
+- At the time this demo was recorded, I was highly congested, so apologies for the audio :/
+- I am a light mode user... you have been warned...
 
 ## Project Description
 

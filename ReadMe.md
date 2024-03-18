@@ -14,7 +14,7 @@ supports various CRUD (Create, Read, Update, Delete) operations, allowing manipu
 records within the database.
 
 ## Application Functions
-The Java application provides a simple text-based user interface to interact with the student database, supporting operations to view, add, update, and delete student records.
+This Java application provides a simple text-based user interface to interact with the student database, supporting operations to view, add, update, and delete student records.
 
 ## System Requirements
 

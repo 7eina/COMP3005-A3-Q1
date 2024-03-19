@@ -30,7 +30,7 @@ Contains the source code for the Java application. Notable files include:
 - `Main.java`: The primary Java application file responsible for connecting to the PostgreSQL database, providing a command-line interface for interacting with the database, and performing CRUD operations. It includes methods for adding, updating, deleting, and retrieving student records.
 
 ### `/target`
-This directory is typically generated when the project is built and may contain compiled code and other build artifacts, including:
+This directory is generated when the project is built and contains compiled code and other build artifacts, including:
 
 - `Main.class`: The compiled version of `Main.java`, ready for execution.
 
